@@ -10,19 +10,19 @@ Breves comentários em python foram inseridos em cada bloco de código para expl
 ### 1. Dowload do Arquivo 
 Baixe o arquivo no GitHub em formato Zip e salve-o em um diretório de sua preferência.
 
-![Passo 1](/readme_assets/passo_1.jpg)
+![Passo 1](/passo_1.jpg)
 
 ### 2. Upload para Google Drive.
 Acesse seu Google Drive e faça o Upload do arquivo .iypnb para o diretório de sua preferência.
 
-![Passo 2A](/readme_assets/passo_2a.jpg)
-![Passo 2B](/readme_assets/passo_2b.jpg)
-![Passo 2C](/readme_assets/passo_2c.jpg)
+![Passo 2A](/passo_2a.jpg)
+![Passo 2B](/passo_2b.jpg)
+![Passo 2C](/passo_2c.jpg)
 
 ### 3. Abrindo o Arquivo
 Abra o arquivo em seu Drive. Ao carregar, selecione Runtime e Run All, ou utilize o atalho Ctrl + F9 para agilizar. Pronto! Basta analisar os resultados.
 
-![Passo 3](/readme_assets/passo_3.jpg)
+![Passo 3](/passo_3.jpg)
 
 
 
