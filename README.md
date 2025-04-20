@@ -36,19 +36,19 @@ Você talvez encontre algumas viaráveis para pontuação no código. Elas armaz
 ### 1. Dowload do Arquivo 
 Baixe o arquivo no GitHub em formato Zip e salve-o em um diretório de sua preferência.
 
-![Passo 1](/passo_1.jpg)
+![passo_1](https://github.com/user-attachments/assets/44c3153f-023a-4e02-a675-a23ee0a2f648)
 
 ### 2. Upload para Google Drive.
 Acesse seu Google Drive e faça o Upload do arquivo .iypnb para o diretório de sua preferência.
 
-![Passo 2A](/passo_2a.jpg)
-![Passo 2B](/passo_2b.jpg)
-![Passo 2C](/passo_2c.jpg)
+![passo_2a](https://github.com/user-attachments/assets/9e6c1afe-2d3b-4b46-8e43-7be705295db3)
+![passo_2b](https://github.com/user-attachments/assets/7b92fe61-88c4-4399-8e49-e00c1a36ae32)
+![passo_2c](https://github.com/user-attachments/assets/475b98ec-0dd8-4dce-a959-a867fb9d4633)
 
 ### 3. Abrindo o Arquivo
 Abra o arquivo em seu Drive. Ao carregar, selecione Runtime e Run All, ou utilize o atalho Ctrl + F9 para agilizar. Pronto! Basta analisar os resultados.
 
-![Passo 3](/passo_3.jpg)
+![passo_3](https://github.com/user-attachments/assets/38ced078-4533-4f6a-ab50-67c654721191)
 
 
 
