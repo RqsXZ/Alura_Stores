@@ -17,7 +17,7 @@ Este gráfico mostra qual loja teve o maior faturamento dentre as 4. Vemos uma l
 ![faturamento_por_loja](https://github.com/user-attachments/assets/7d450abc-2363-46b4-a265-909898bead47)
 
 ### Avaliação Média por Loja
-Este gráfico mostra como as lojas foram avaliadas pelos clientes após a compra, em média. Claro, a avaliação não é a única forma de estudar o desempenho da loja, mas lembremo-nos da máxima "O cliente tem sempre razão". Assim, vemos que o faturamento mascarou uma média de avaliação um tanto baixa em relação à loja 1. Enquanto a loja 4, que faturava menos dentre todas, tem uma boa média.
+Este gráfico mostra como as lojas foram avaliadas pelos clientes após a compra, em média. Claro, a avaliação não é a única forma de estudar o desempenho da loja, mas lembremo-nos da máxima "O cliente tem sempre razão". Assim, vemos que o faturamento mascarou uma média de avaliação um tanto baixa em relação à loja 1. Enquanto a loja 4, que faturava menos dentre todas, foi a terceira pior média.
 
 ![media_avaliacao_loja](https://github.com/user-attachments/assets/efb2c08a-86da-49dc-a385-75be03aea432)
 
